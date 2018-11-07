@@ -385,13 +385,13 @@ First, you'll need a basic understanding of common principles, learning about wh
 
 ### Step 2: Review the scalability article
 
-- [ ] [Scalability](http://www.lecloud.net/tagged/scalability/chrono)
+- [X] [Scalability](http://www.lecloud.net/tagged/scalability/chrono)
 
 * Topics covered:
-    * [ ] [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
-    * [ ] [Databases](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
-    * [ ] [Caches](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
-    * [ ] [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+    * [X] [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+    * [X] [Databases](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+    * [X] [Caches](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+    * [X] [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
 
 ### Next steps
 
