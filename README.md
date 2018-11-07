@@ -96,7 +96,7 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 </p>
 
 *  [ ] [System design topics: start here](#system-design-topics-start-here)
-    *  [ ] [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
+    *  [X] [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
     *  [ ] [Step 2: Review the scalability article](#step-2-review-the-scalability-article)
     *  [ ] [Next steps](#next-steps)
 *  [ ] [Performance vs scalability](#performance-vs-scalability)
@@ -385,7 +385,7 @@ First, you'll need a basic understanding of common principles, learning about wh
 
 ### Step 2: Review the scalability article
 
-[ ] [Scalability](http://www.lecloud.net/tagged/scalability/chrono)
+-[ ] [Scalability](http://www.lecloud.net/tagged/scalability/chrono)
 
 * Topics covered:
     * [ ] [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
