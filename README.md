@@ -342,7 +342,7 @@ Check out the following links to get a better idea of what to expect:
 
 ### Design a system that scales to millions of users on AWS
 
-- [ ] [View exercise and solution](solutions/system_design/scaling_aws/README.md)
+- [X] [View exercise and solution](solutions/system_design/scaling_aws/README.md)
 
 ![Imgur](http://i.imgur.com/jj3A5N8.png)
 
