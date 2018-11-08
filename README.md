@@ -291,7 +291,7 @@ Check out the following links to get a better idea of what to expect:
 | - [ ] Design Pastebin.com (or Bit.ly) | [Solution](solutions/system_design/pastebin/README.md) |
 | Design the Twitter timeline and search (or Facebook feed and search) | [Solution](solutions/system_design/twitter/README.md) |
 | - [ ] Design a web crawler | [Solution](solutions/system_design/web_crawler/README.md) |
-| - [ ] Design Mint.com | [Solution](solutions/system_design/mint/README.md) |
+| - [X] Design Mint.com | [Solution](solutions/system_design/mint/README.md) |
 | - [ ] Design the data structures for a social network | [Solution](solutions/system_design/social_graph/README.md) |
 | - [ ] Design a key-value store for a search engine | [Solution](solutions/system_design/query_cache/README.md) |
 | - [ ] Design Amazon's sales ranking by category feature | [Solution](solutions/system_design/sales_rank/README.md) |
@@ -318,7 +318,7 @@ Check out the following links to get a better idea of what to expect:
 
 ### Design Mint.com
 
- - [ ] [View exercise and solution](solutions/system_design/mint/README.md)
+ - [X] [View exercise and solution](solutions/system_design/mint/README.md)
 
 ![Imgur](http://i.imgur.com/V5q57vU.png)
 
